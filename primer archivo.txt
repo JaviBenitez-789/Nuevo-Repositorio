@@ -1,1 +1,2 @@
 archivo normal que si esta en un repositorio de git
+hago otra modificación en el archivo
